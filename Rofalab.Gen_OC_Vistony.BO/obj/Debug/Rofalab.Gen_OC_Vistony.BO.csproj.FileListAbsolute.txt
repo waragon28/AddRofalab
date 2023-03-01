@@ -1,0 +1,7 @@
+D:\Desarrollo\AddRofalab\Rofalab.Gen_OC_Vistony.BO\bin\Debug\Vistony.Distribucion.BO.dll
+D:\Desarrollo\AddRofalab\Rofalab.Gen_OC_Vistony.BO\bin\Debug\Vistony.Distribucion.BO.pdb
+D:\Desarrollo\AddRofalab\Rofalab.Gen_OC_Vistony.BO\bin\Debug\Forxap.Framework.dll
+D:\Desarrollo\AddRofalab\Rofalab.Gen_OC_Vistony.BO\bin\Debug\SAPBusinessOneSDK.dll
+D:\Desarrollo\AddRofalab\Rofalab.Gen_OC_Vistony.BO\obj\Debug\Rofalab.Gen_OC_Vistony.BO.csprojResolveAssemblyReference.cache
+D:\Desarrollo\AddRofalab\Rofalab.Gen_OC_Vistony.BO\obj\Debug\Vistony.Distribucion.BO.dll
+D:\Desarrollo\AddRofalab\Rofalab.Gen_OC_Vistony.BO\obj\Debug\Vistony.Distribucion.BO.pdb
